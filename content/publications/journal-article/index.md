@@ -1,11 +1,20 @@
 ---
-title: "An example journal article"
+title: "A cluster of blood-based protein biomarkers reflecting coagulation relates to the burden of cerebral small vessel disease"
 authors:
-- admin
-- Robert Ford
+- admin *
+- Sanne Kuipers *
+- Bram van Es
+- Jeroen de Bresser
+- Esther Bron
+- Imo Hoefer
+- Jaap Kappelle
+- Charlotte Teunissen
+- Geert Jan Biessels
+- Saskia Haitjema
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "* Equal contribution"
+
 date: "2015-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
@@ -17,39 +26,15 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "Journal of Cerebral Blood Flow and Metabolism"
+publication_short: "JCBFM"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: Biological processes underlying cerebral small vessel disease (cSVD) are largely unknown. We hypothesized that identification of clusters of inter-related bood-based biomarkers that are associated with the burden of cSVD provides leads on underlying biological processes. In 494 participants (mean age 67.6 ± 8.7 years; 36% female; 75% cardiovascular diseases; 25% reference participants) we assessed the relation between 92 blood-based biomarkers from the OLINK cardiovascular III panel and cSVD, using cluster-based analyses. We focused particularly on white matter hyperintensities (WMH). Nineteen biomarkers individually correlated with WMH ratio (r range: 0.16–0.27, Bonferroni corrected p-values <0.05), of which sixteen biomarkers formed one biomarker cluster. Pathway analysis showed that this biomarker cluster predominantly reflected coagulation processes. This cluster related also significantly to other cSVD manifestations (lacunar infarcts, microbleeds, and enlarged perivascular spaces), which supports generalizability beyond WMHs. To study possible causal effects of biological processes reflected by the cluster we performed a mediation analysis that showed a mediation effect of the cluster on the relation between age and WMH ratio (proportion mediated 17%), and hypertension and WMH-volume (proportion mediated 21%). In conclusion, we identified a cluster of blood-based biomarkers reflecting coagulation, that is related to manifestations of cSVD, corroborating involvement of coagulation abnormalities in the etiology of cSVD.
 
 tags:
-- Source Themes
-featured: false
+- Small Vessel Disease, Blood Biomarkers, Clustering
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
-
-links:
-  - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: ""
-  - type: video
-    url: ""
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
