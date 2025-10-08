@@ -12,7 +12,7 @@ authors:
 - Lieza G. Exalto
 - Saskia Haitjema
 date: '2023-08-01'
-publishDate: '2025-10-08T13:54:09.427676Z'
+publishDate: '2023-08-01'
 publication_types:
 - article-journal
 publication: '*Journal of Thrombosis and Thrombolysis*'

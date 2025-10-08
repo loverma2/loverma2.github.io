@@ -17,7 +17,7 @@ authors:
 - Saskia Haitjema
 - Heart-Brain Connection Consortium
 date: '2023-12-01'
-publishDate: '2025-10-08T13:54:09.403087Z'
+publishDate: '2023-12-01'
 publication_types:
 - article-journal
 publication: '*Journal of Cerebral Blood Flow & Metabolism*'

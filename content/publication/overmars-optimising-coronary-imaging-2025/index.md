@@ -15,7 +15,7 @@ authors:
 - Imo Hoefer
 - Saskia Haitjema
 date: '2025-01-01'
-publishDate: '2025-10-08T13:54:09.411217Z'
+publishDate: '2025-01-01'
 publication_types:
 - article-journal
 publication: '*Open Heart*'

@@ -12,7 +12,7 @@ authors:
 - Imo E Hoefer
 - Saskia Haitjema
 date: '2022-03-01'
-publishDate: '2025-10-08T13:54:09.419650Z'
+publishDate: '2022-03-01'
 publication_types:
 - article-journal
 publication: '*European Heart Journal - Digital Health*'

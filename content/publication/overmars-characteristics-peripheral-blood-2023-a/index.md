@@ -13,7 +13,7 @@ authors:
 - Sander W. Van Der Laan
 - Saskia Haitjema
 date: '2023-06-01'
-publishDate: '2025-10-08T13:54:09.396350Z'
+publishDate: '2023-06-01'
 publication_types:
 - article-journal
 publication: '*Atherosclerosis Plus*'

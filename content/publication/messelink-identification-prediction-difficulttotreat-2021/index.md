@@ -15,7 +15,7 @@ authors:
 - Paco M. J. Welsing
 - Saskia Haitjema
 date: '2021-12-01'
-publishDate: '2025-10-08T13:54:09.387902Z'
+publishDate: '2021-12-01'
 publication_types:
 - article-journal
 publication: '*Arthritis Research & Therapy*'
