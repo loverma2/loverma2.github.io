@@ -7,10 +7,7 @@ links:
   - type: site
     url: https://github.com/loverma2/VCI-Bayes-Explore
 tags:
-  - Bayesian
-  - VCI
-  - Network
-  - Prognosis
+  - Bayesian, VCI, Network, Prognosis, Method
 ---
 
 VCI-Bayes is a working repository for **Bayesian networks** in vascular cognitive impairment (VCI). 
