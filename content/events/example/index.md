@@ -5,13 +5,12 @@ event: VasCog Conference
 event_url: https://conference2025.vascog.org/
 
 location: Southampton - UK
-
 summary: Individualized Risk Prediction for Cognitive Decline and Cardiovasular Events in VCI: A Bayesian Network Approach
 
 authors:
   - admin
 
-tags: [Bayesian][Conference]
+tags: [Bayesian, Conference]
 
 # Is this a featured talk? (true/false)
 featured: true
