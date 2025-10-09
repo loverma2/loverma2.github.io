@@ -4,7 +4,7 @@ title: VasCog 2025
 event: VasCog Conference
 event_url: https://conference2025.vascog.org/
 
-location: Southampton, Hampshire, UK
+location: Southampton - UK
 
 summary: Individualized Risk Prediction for Cognitive Decline and Cardiovasular Events in VCI: A Bayesian Network Approach
 
