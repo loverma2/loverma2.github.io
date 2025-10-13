@@ -1,5 +1,5 @@
 ---
-title: VasCog 2023
+title: VasCog Conference 2023, Gothenburg - Sweden
 
 event: VasCog Conference
 event_url: ''
@@ -19,7 +19,7 @@ publishDate: '2023-06-01T00:00:00Z'
 authors:
   - admin
 
-tags: [Conference, Cognitive, NLP]
+tags: [Conference, NLP]
 
 # Is this a featured talk? (true/false)
 featured: true

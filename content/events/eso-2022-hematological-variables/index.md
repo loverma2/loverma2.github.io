@@ -1,5 +1,5 @@
 ---
-title: ESO 2022 - Hematological Variables
+title: European Stroke Organization Conference (ESOC) 2022, Lyon - France
 
 event: European Stroke Organization Conference
 event_url: ''
@@ -19,7 +19,7 @@ publishDate: '2022-04-01T00:00:00Z'
 authors:
   - admin
 
-tags: [Conference, Stroke, Cardiovascular]
+tags: [Conference, Hematology, Sex differences]
 
 # Is this a featured talk? (true/false)
 featured: true

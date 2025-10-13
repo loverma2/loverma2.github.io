@@ -1,5 +1,5 @@
 ---
-title: ESO 2022 - ECM Organization
+title: European Stroke Organization Conference 2022 (ESOC), Lyon - France
 
 event: European Stroke Organization Conference
 event_url: ''
@@ -19,7 +19,7 @@ publishDate: '2022-04-01T00:00:00Z'
 authors:
   - admin
 
-tags: [Conference, Stroke, Cardiovascular]
+tags: [Conference, Biomarkers, Proteomics]
 
 # Is this a featured talk? (true/false)
 featured: true

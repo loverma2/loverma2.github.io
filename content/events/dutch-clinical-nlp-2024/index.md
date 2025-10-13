@@ -1,5 +1,5 @@
 ---
-title: Dutch Clinical NLP Workshop 2024
+title: Dutch Clinical NLP Workshop 2024, Utrecht - The Netherlands
 
 event: Dutch Clinical NLP Workshop
 event_url: ''
@@ -19,7 +19,7 @@ publishDate: '2024-02-01T00:00:00Z'
 authors:
   - admin
 
-tags: [Conference, NLP, Cardiovascular]
+tags: [Conference, NLP]
 
 # Is this a featured talk? (true/false)
 featured: true

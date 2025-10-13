@@ -1,5 +1,5 @@
 ---
-title: ESC 2023 - Peripheral Blood Cells
+title: European Society of Cardiology Conference 2023, Amsterdam - The Netherlands
 
 event: European Society of Cardiology Conference
 event_url: ''
@@ -19,7 +19,7 @@ publishDate: '2023-06-01T00:00:00Z'
 authors:
   - admin
 
-tags: [Conference, Cardiovascular]
+tags: [Conference, Hematology]
 
 # Is this a featured talk? (true/false)
 featured: true

@@ -1,5 +1,5 @@
 ---
-title: DCVA-NLHI 2024
+title: 8th DCVA-NLHI Translational Cardiovascular Research Meeting, Utrecht - The Netherlands
 
 event: 8th DCVA-NLHI Translational Cardiovascular Research Meeting
 event_url: ''
@@ -23,6 +23,8 @@ tags: [Conference, Cardiovascular]
 
 # Is this a featured talk? (true/false)
 featured: true
+
+tags: [Thesis, Conference, Big Data]
 
 image:
   focal_point: Right
